@@ -1,9 +1,9 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'Skrypt na fakture By asnasio dla redleaks'
+description 'Skrypt na fakture By asnasio'
 author 'asnasioo'
-version '1.0.0'
+version '1.0.2'
 
 server_script {
     's.lua',
